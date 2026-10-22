@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX3222EAP+
-D Maxim MAX3222EAP+, Line Transceiver, EIA/TIA-232/ EIA/TIA-562/ RS-232 2-TX 2-RX 2-TRX, 3  5.5 V, 20-Pin SSOP
-K
-F https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf
-$ENDCMP
-#
-#End Doc Library

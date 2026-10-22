@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "IoT") (type "KiCad") (uri "C:/Users/larsd/Documents/schakelprogramma_elo_ict/Y3S1/IoT/IOT_Project/KiCad/IoT.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "SD_105162-0001") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/SD_105162-0001.pretty") (options "") (descr ""))
+)

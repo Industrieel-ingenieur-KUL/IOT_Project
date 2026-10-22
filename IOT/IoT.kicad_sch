@@ -9639,7 +9639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 19.812 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -9720,7 +9720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 129.2352 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9880,7 +9880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 135.5852 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9960,7 +9960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Molex_104031-0811"
 			(at 261.62 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -10147,7 +10147,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 72.39 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -10228,7 +10228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 110.1852 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10312,7 +10312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 132.08 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -10403,7 +10403,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 149.86 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -10574,7 +10574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 56.8452 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10658,7 +10658,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal"
 			(at 132.08 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10895,7 +10895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal"
 			(at 83.82 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11220,7 +11220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.85 137.4648 0)
 			(hide yes)
 			(show_name no)
@@ -11462,7 +11462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 116.5352 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11544,7 +11544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 165.862 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -11894,7 +11894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:Littelfuse_PolyZen-LS"
 			(at 200.66 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11976,7 +11976,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
 			(at 29.21 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12134,7 +12134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 50.8 113.538 90)
 			(hide yes)
 			(show_name no)
@@ -12295,7 +12295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 167.64 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12388,7 +12388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
 			(at 60.96 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -12626,7 +12626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 207.518 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -12944,7 +12944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
 			(at 141.9352 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13024,7 +13024,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 140.97 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -13106,7 +13106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
 			(at 186.9948 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -13186,7 +13186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 140.97 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -13267,7 +13267,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
 			(at 132.08 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13346,7 +13346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 100.838 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -13506,7 +13506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
 			(at 83.82 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -13663,7 +13663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
 			(at 87.3252 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -13824,7 +13824,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 69.85 129.2352 0)
 			(hide yes)
 			(show_name no)
@@ -13906,7 +13906,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
 			(at 53.34 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -14067,7 +14067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 32.512 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -14513,7 +14513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 139.192 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -14595,7 +14595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 104.14 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -14677,7 +14677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 156.972 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -14759,7 +14759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 148.082 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -14920,7 +14920,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal"
 			(at 205.74 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -15020,7 +15020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
 			(at 16.51 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15100,7 +15100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 152.4 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -15428,7 +15428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 158.75 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15677,7 +15677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 59.69 103.1748 0)
 			(hide yes)
 			(show_name no)
@@ -15916,7 +15916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
 			(at 83.82 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -15994,7 +15994,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 122.8852 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -16074,7 +16074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 44.45 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -16234,7 +16234,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 64.77 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -16316,7 +16316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 59.69 94.9452 0)
 			(hide yes)
 			(show_name no)
@@ -16398,7 +16398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 97.282 26.67 90)
 			(hide yes)
 			(show_name no)
@@ -16478,7 +16478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 173.99 70.358 90)
 			(hide yes)
 			(show_name no)
@@ -16560,7 +16560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 207.772 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -16640,7 +16640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 50.8 116.078 90)
 			(hide yes)
 			(show_name no)
@@ -16722,7 +16722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
 			(at 40.64 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16802,7 +16802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 44.45 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -16884,7 +16884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 43.942 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -17043,7 +17043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 140.97 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -17294,7 +17294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 64.262 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -17375,7 +17375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:Littelfuse_PolyZen-LS"
 			(at 204.47 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -17548,7 +17548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal"
 			(at 132.08 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17711,7 +17711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
 			(at 132.08 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -17794,7 +17794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal"
 			(at 210.82 109.22 0)
 			(hide yes)
 			(show_name no)
