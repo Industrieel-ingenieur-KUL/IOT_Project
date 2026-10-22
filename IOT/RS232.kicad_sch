@@ -3353,7 +3353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SOP65P778X199-20N"
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x5mm_P0.4mm"
 			(at 85.09 131.75 0)
 			(hide yes)
 			(show_name no)
@@ -3549,7 +3549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SOP65P778X199-20N"
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x5mm_P0.4mm"
 			(at 182.88 133.02 0)
 			(hide yes)
 			(show_name no)
