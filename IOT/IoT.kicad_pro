@@ -76,46 +76,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|171752800|133092200|257ca66b-6283-4075-9191-849ea4e9a44f|52cf2552-1b07-4dda-a699-222f93be18db",
-          ""
-        ],
-        [
-          "hole_clearance|171752800|133092200|38f2de0d-017f-4001-ac59-211d0fcbc121|52cf2552-1b07-4dda-a699-222f93be18db",
-          ""
-        ],
-        [
-          "hole_clearance|177852800|133092200|00cb1727-2f39-4d57-89bc-d45c794d5d3c|1dabc192-9eca-491f-b680-74fc07cbd455",
-          ""
-        ],
-        [
-          "hole_clearance|177852800|133092200|7259fbe4-8082-4343-94d9-d17cfdd4cf27|1dabc192-9eca-491f-b680-74fc07cbd455",
-          ""
-        ],
-        [
-          "shorting_items|172402800|132152200|03613046-bf9a-438d-beae-2e5c54a20b67|981db496-ada0-46fc-b343-20856ff033ea",
-          ""
-        ],
-        [
-          "shorting_items|177202800|132152200|27f1d25d-60fd-47ae-9a6e-a0aa0f58e0b0|5bdd08ac-e736-47a5-ace5-182dc294114e",
-          ""
-        ],
-        [
-          "solder_mask_bridge|172402800|132152200|981db496-ada0-46fc-b343-20856ff033ea|03613046-bf9a-438d-beae-2e5c54a20b67",
-          ""
-        ],
-        [
-          "solder_mask_bridge|177202800|132152200|5bdd08ac-e736-47a5-ace5-182dc294114e|27f1d25d-60fd-47ae-9a6e-a0aa0f58e0b0",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "ignore",
+        "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
@@ -192,7 +159,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.1499,
+        "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -546,7 +513,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1499,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -557,7 +524,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1499,
+        "track_width": 0.2,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -575,7 +542,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerber/",
+      "plot": "",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -722,12 +689,6 @@
           "label": "Height",
           "name": "Height",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Params",
-          "name": "Sim.Params",
-          "show": false
         }
       ],
       "filter_string": "",
@@ -786,7 +747,7 @@
         "uuid": "f5d15b22-d91e-4545-b7af-da23c1769042"
       }
     ],
-    "used_designators": "#PWR1-68,BT1,D1-21,L1-3,C1-38,IC1-2,J1-21,JP1-8,R1-30,SW1-5,TP1-14,U1-8,Y1-4,Q1,H1-4,CS1",
+    "used_designators": "#PWR1-65,BT1,D1-20,D22,L1-3,C1-38,IC1-2,J1-21,JP1-8,R1-30,SW1-5,TP1-14,U1-8,Y1-4",
     "variants": []
   },
   "sheets": [

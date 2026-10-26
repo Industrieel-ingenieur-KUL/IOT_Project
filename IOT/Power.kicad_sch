@@ -3355,6 +3355,12 @@
 		(uuid "43caf47a-2add-4152-b674-2ea251fde544")
 	)
 	(junction
+		(at 185.42 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48d77736-83a0-4e3f-91f7-83b27001f57b")
+	)
+	(junction
 		(at 83.82 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3401,6 +3407,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69080029-7c9a-4f57-be27-99e7152ff267")
+	)
+	(junction
+		(at 185.42 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c582231-77b4-4ae0-8eac-4df8c5683beb")
 	)
 	(junction
 		(at 83.82 144.78)
@@ -3707,6 +3719,16 @@
 			(type default)
 		)
 		(uuid "2490b195-0ea3-42ca-8c63-266c4a81ef40")
+	)
+	(wire
+		(pts
+			(xy 182.88 48.26) (xy 185.42 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25457c5f-9a97-4c63-a5d3-7e113e510264")
 	)
 	(wire
 		(pts
@@ -4510,6 +4532,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 48.26) (xy 185.42 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b5ab303-0a09-4b6a-a206-ea8e10942c09")
+	)
+	(wire
+		(pts
 			(xy 233.68 100.33) (xy 233.68 88.9)
 		)
 		(stroke
@@ -4720,6 +4752,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 55.88) (xy 185.42 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b98a7547-171d-4c68-bacb-13bf57d9de2f")
+	)
+	(wire
+		(pts
 			(xy 167.64 85.09) (xy 167.64 97.79)
 		)
 		(stroke
@@ -4810,7 +4852,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 52.07) (xy 185.42 53.34)
+			(xy 185.42 46.99) (xy 185.42 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4907,16 +4949,6 @@
 			(type default)
 		)
 		(uuid "d0808738-823f-4c44-bcc0-33edd2524057")
-	)
-	(wire
-		(pts
-			(xy 185.42 55.88) (xy 185.42 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d165a77d-c3aa-4449-986a-62814523f628")
 	)
 	(wire
 		(pts
@@ -5027,6 +5059,16 @@
 			(type default)
 		)
 		(uuid "df41b877-1e7b-4f93-a7df-ad69b04cbb96")
+	)
+	(wire
+		(pts
+			(xy 185.42 55.88) (xy 185.42 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df49a9bf-bf38-4b5d-b69d-d867cc11b743")
 	)
 	(wire
 		(pts
@@ -5677,7 +5719,7 @@
 				)
 			)
 		)
-		(property "Value" "MT3608"
+		(property "Value" "TPS61040DBVR"
 			(at 151.13 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9120,6 +9162,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 182.88 52.07 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a80affc-766f-4c16-96b4-82052ddbeb50")
+		(property "Reference" "D22"
+			(at 180.34 50.4824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SK34"
+			(at 180.34 53.0224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
+			(at 182.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 182.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fa16329f-dacb-4e33-b33e-a4a2dc6a83f4")
+		)
+		(pin "1"
+			(uuid "88f5da81-f627-46f1-bfb1-36f5117bdecc")
+		)
+		(instances
+			(project "IoT"
+				(path "/f5d15b22-d91e-4545-b7af-da23c1769042/f70060c6-2358-4019-84cd-3d9e583a3bdf"
+					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 36.83 55.88 0)
 		(unit 1)
@@ -9519,7 +9643,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 185.42 52.07 0)
+		(at 185.42 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9530,7 +9654,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1aeeaad-c3eb-434d-9a0d-b5134432607f")
 		(property "Reference" "#PWR066"
-			(at 185.42 55.88 0)
+			(at 185.42 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9541,7 +9665,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 185.42 46.99 0)
+			(at 185.42 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9551,7 +9675,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 52.07 0)
+			(at 185.42 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9562,7 +9686,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 52.07 0)
+			(at 185.42 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9573,7 +9697,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 185.42 52.07 0)
+			(at 185.42 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
